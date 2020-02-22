@@ -25,7 +25,7 @@ SECRET_KEY = '0&gvsoh!d=guow=z4yxgf4nfs)ug6joyhe9b*8=n$i+nap2=*0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['18.206.127.19', 'localhost', 'myhostup.ddns.net']
 
 
 # Application definition
